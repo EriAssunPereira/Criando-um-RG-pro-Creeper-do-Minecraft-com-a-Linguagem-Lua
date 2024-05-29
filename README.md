@@ -1,6 +1,6 @@
 # Criando-um-RG-pro-Creeper-do-Minecraft-com-a-Linguagem-Lua
 
-Criando um artigo detalhado sobre o tema que você descreveu. Vou dividi-lo em módulos para facilitar a leitura e incluir exemplos de código. Aqui está o seu artigo:
+Criando um artigo detalhado sobre o tema. Vou dividi-lo em módulos para facilitar a leitura e incluir exemplos de código. Aqui está o artigo:
 
 # **Introdução à Programação Orientada a Objetos (POO)**
 
